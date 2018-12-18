@@ -1,0 +1,24 @@
+# Heroku
+.env
+.docker_build/
+
+# IDE
+.idea/*
+
+# binary
+
+# log file
+*.log
+
+# cache
+.zcache
+.tags*
+
+# dependencies
+/vendor
+gin-bin
+config.json
+.vscode
+
+# docker
+docker-compose.yml
